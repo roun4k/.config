@@ -1,6 +1,6 @@
 # Roun4k's BSPWM Config
 
-![Screenshot](https://files.catbox.moe/zb5c9j.png)
+![Screenshot](https://files.catbox.moe/adczt5.png)
 
 ### Stuff Used
 - [Dracula Theme](https://draculatheme.com/)
