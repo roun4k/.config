@@ -120,6 +120,9 @@ super + {Left,Down,Up,Right}
 super + b
 	firefox
 
+super + shift + b
+	firefox --private-window
+
 # Screenshot
 super + p
 	flameshot full
